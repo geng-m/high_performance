@@ -1,8 +1,8 @@
 # high_performance
 ## Description：
-   1.开发工具：Visio studio 2010/Sql Server 2008R
-   2.语言：C#/sql/js/jquery/ajax/html
-   3.数据库备份：./High_PerformanceData/High_Performance.bak
+   1.开发工具：Visio studio 2010/Sql Server 2008R 
+   2.语言：C#/sql/js/jquery/ajax/html 
+   3.数据库备份：./High_PerformanceData/High_Performance.bak 
 ## 部分项目效果展示：
    1.部分专家详细信息展示：
    <div align="center">
@@ -15,7 +15,7 @@
   </div>
   3.专家出生地分布统计图：
   <div align=center>
-  <img width="3000" height="150" src="https://github.com/gengmiao/high_performance/blob/master/High_PerformanceData/imgs/professor_heatmap.png"/>
+  <img width="600" height="600" src="https://github.com/gengmiao/high_performance/blob/master/High_PerformanceData/imgs/professor_heatmap.png"/>
   </div>
   
   
