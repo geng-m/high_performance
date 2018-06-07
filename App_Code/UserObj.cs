@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+/// <summary>
+///UserObj 的摘要说明
+/// </summary>
+///
+namespace setusrinfo
+{
+    //[Serializable]
+    public class UserObj
+    {
+        private string q;
+        private string w;
+        public UserObj()
+        {
+            //
+            //TODO: 在此处添加构造函数逻辑
+            //
+        }
+        public string Names
+        {
+            get 
+            {
+                return q;
+            }
+            set 
+            
+            {
+                q = value;
+            
+            }
+        
+        }
+        public string Ranks
+        {
+            get
+            {
+                return w;
+            }
+            set
+            {
+                w = value;
+
+            }
+
+        }
+        public string RankName { get; set; }
+    }
+}
