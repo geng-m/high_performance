@@ -11,7 +11,7 @@
    2.专家出生年龄分布统计图：
    <div align=center>
   <img width="400" height="300" src="https://github.com/gengmiao/high_performance/blob/master/High_PerformanceData/imgs/professor_columns.png"/>
-  <img width="400" height="300" src="https://github.com/gengmiao/high_performance/blob/master/High_PerformanceData/imgs/professor_pin.png"/>
+  <img width="400" height="200" src="https://github.com/gengmiao/high_performance/blob/master/High_PerformanceData/imgs/professor_pin.png"/>
   </div>
   3.专家出生地分布统计图：
   <div align=center>
