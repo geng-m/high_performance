@@ -1,8 +1,8 @@
 # high_performance
 ## Description：
-   1.开发工具：Visio studio 2010/Sql Server 2008R 
-   2.语言：C#/sql/js/jquery/ajax/html 
-   3.数据库备份：./High_PerformanceData/High_Performance.bak 
+   1.开发工具：Visio studio 2010/Sql Server 2008R<br />
+   2.语言：C#/sql/js/jquery/ajax/html <br />
+   3.数据库备份：./High_PerformanceData/High_Performance.bak <br />
 ## 部分项目效果展示：
    1.部分专家详细信息展示：
    <div align="center">
