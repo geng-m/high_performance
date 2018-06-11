@@ -14,7 +14,7 @@ namespace HAQS_Enter
     {
 
         #region 定义变量
-        public static readonly string strConn = "server=.;user id=sa;password=gmsa;database=High_Performance";
+        public static readonly string strConn = "server=.;user id='your user name';password='your user passwd';database='database name'";
         public static string GetConnStr()
         {
             return strConn;
